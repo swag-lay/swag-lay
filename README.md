@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-`[![swag-lay's Github stats](https://github-readme-stats.vercel.app/api?username=swag-lay&theme=swift&show_icons=true&count_private=true)
-https://github.com/swag-lay/github-readme-stats.git`
-
+[![swag-lay's Github stats](https://github-readme-stats.vercel.app/api/pin/?username=swag-lay&repo=github-readme-stats&theme=swift&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
+
+![swag-lay's Github stats](https://github-readme-stats.vercel.app/api?username=swag-lay&theme=swift&show_icons=true&count_private=true)
 ![swag-lay's Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swag-lay&layout=compact&langs_count=10&theme=swift)
 -->
 
