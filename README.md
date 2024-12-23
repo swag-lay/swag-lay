@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![swag-lay's Github stats](https://github-readme-stats-pink-xi-29.vercel.app//api?username=swag-lay&theme=swift&show_icons=true)
+![swag-lay's Github stats](https://github-readme-stats-kh1k6i2g1-swaglays-projects.vercel.app//api?username=swag-lay&theme=swift&show_icons=true)
 
-![swag-lay's Github languages](https://github-readme-stats-pink-xi-29.vercel.app//api/top-langs/?username=swag-lay&layout=compact&langs_count=10&theme=swift)
+![swag-lay's Github languages](https://github-readme-stats-kh1k6i2g1-swaglays-projects.vercel.app//api/top-langs/?username=swag-lay&layout=compact&langs_count=10&theme=swift)
 
 
